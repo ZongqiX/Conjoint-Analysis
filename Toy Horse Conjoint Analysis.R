@@ -1,7 +1,3 @@
-setwd("C:/Users/xzq/Desktop/MR/Final")
-filenm = "MKT412R - Final Analysis Case Data"
-load(paste(filenm,".Rdata",sep=""))
-ls()
 
 # Part1: Regression for each individual
 atts1 = atts[-1]
